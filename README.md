@@ -19,3 +19,5 @@ Free Software and Open Source can be used interchangeably
 Free Software can always be run, studied, modified, and redistributed with or without changes
 Most Free Software licenses also qualify for Open Source.
 Open Source Software can be modified without sharing the modified source code depending on the Open Source license
+
+A
